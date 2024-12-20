@@ -1,1 +1,3 @@
-# Hello world
+```py
+print('Hello, Im just a random dev')
+```
